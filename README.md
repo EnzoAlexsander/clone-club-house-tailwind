@@ -1,2 +1,13 @@
-# clone-club-house-tailwind
- Clone do app Club House utilizando tailwindCSS
+# Um clone do app Club House com TailwindCSS
+
+## Demonstration
+
+
+## Techs
+
+* [ ] HTML
+* [ ] TailwindCSS
+
+## Author
+
+**Enzo Alexsander**
